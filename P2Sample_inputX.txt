@@ -1,0 +1,154 @@
+insert 1
+Overview of HCI Research at VT
+0610051600 90 10 10 45
+HCI Computer_Science VT Virginia_Tech
+This seminar will present an overview of HCI research at VT
+
+
+insert 2
+Computational Biology and Bioinformatics in CS at Virginia Tech
+      0610071600       60     20     10 30
+Bioinformatics computation_biology Biology Computer_Science VT Virginia_Tech
+    Introduction to   bioinformatics and computation biology
+insert 3
+Computing Systems Research at VT
+0701250830  30 30   10  17
+high_performance_computing           grids     VT computer science
+  Seminar about the      Computing systems research at      VT
+      
+insert 3
+Overview of HPC and CSE Research at VT
+0703301125     35        0  0                                           25
+      HPC      CSE      computer_science 
+Learn what kind of    research is done on HPC  and CSE at VT
+    
+insert 10
+Overview of HPC and CSE Research at VT
+0703301125     35        0  0                                           25
+      HPC      CSE      computer_science 
+Learn what kind of    research is done on HPC  and CSE at VT
+
+
+search 3
+
+print hashtable
+print blocks
+
+
+delete    2
+
+search 2
+
+print hashtable
+print blocks
+delete 6
+
+insert 2
+Much More Computational Biology and Bioinformatics in CS at Virginia Tech
+      0610071600       60     20     10 30
+Bioinformatics computation_biology Biology Computer_Science VT Virginia_Tech
+    Introduction to bioinformatics and lots of computation biology
+    
+   delete 10
+
+print hashtable   
+  print blocks
+insert 11
+Overview of HCI YURRRRR
+1111111111 11 11 11 11
+HCI Eleven_lenve VT Virginia_Tech
+This seminar will present an overview of HCI eleven at VT
+insert 16
+Overview 6of HCI YURRRRR
+1111111111 16 11 11 11
+HCI Eleven_lenve VT Virginia_Tech
+This seminar will present an overview of HCI eleven at VT
+insert 12
+Overview of HCI YURRR2R
+1111111111 11 11 11 12
+HCI Eleven_lenve VT Virginia_Tech
+This seminar will present an overview of HCI eleven at VT
+insert 13
+Overview of HCI YURRR3R
+1111111111 11 11 11 13
+HCI Eleven_lenve VT Virginia_Tech
+This seminar will present an overview of HCI eleven at VT
+insert 14
+Overview of HCI YURRR4R
+1111111111 11 11 11 14
+HCI Eleven_lenve VT Virginia_Tech
+This seminar will present an overview of HCI eleven at VT
+insert 15
+Overview of HCI YURRR5R
+1111111111 11 11 11 15
+HCI Eleven_lenve VT Virginia_Tech
+This seminar will present an overview of HCI eleven at VT
+
+search 16
+
+insert 15
+Overview of HCI YURRR5R
+1111111111 11 11 11 15
+HCI Eleven_lenve VT Virginia_Tech
+This seminar will present an overview of HCI eleven at VT
+
+search 5
+
+search 15
+
+insert 119
+Overview of HCI YURRR5R
+1111111111 11 11 11 15
+HCI Eleven_lenve VT Virginia_Tech
+This seminar will present an overview of HCI eleven at VT
+
+insert 152
+Overview of HCI YURRR5R
+1111111111 11 11 11 15
+HCI Eleven_lenve VT Virginia_Tech
+This seminar will present an overview of HCI eleven at VT
+
+insert 154
+Computational Biology and Bioinformatics in CS at Virginia Techwqweqweqwewev
+1111111111 11 11 11 15
+Bioinformatics computation_biology Biology Computer_Science VT Virginia_Tech
+Introduction to   bioinformatics and computation biology sdklsklqklkwewlkelw
+
+insert 112
+C
+1111111111 11 11 11 15
+B
+I
+
+delete 15
+
+insert 8
+Computational Biology and Bioinformatics in CS at Virginia Techwqweqweqwewev
+1111111111 11 11 11 15
+Bioinformatics computation_biology Biology Computer_Science VT Virginia_Tech
+Introduction to   bioinformatics and computation biology sdklsklqklkwewlkelw
+
+search 112
+
+print hashtable
+print blocks
+
+delete 112
+print blocks
+delete 1 
+print blocks
+delete 8
+print blocks
+delete 16
+delete 119
+print blocks
+delete 152
+print blocks
+delete 112
+delete 154
+delete 14
+delete 13 
+delete 12
+
+print hashtable
+print blocks
